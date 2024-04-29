@@ -2,7 +2,7 @@ package Classes.ArraysList;
 import java.util.LinkedList;
 
 class LinkedListClass {
-
+    //LinkedList example
     public static void main(String[] args) {
         LinkedList<Student> studentList = new LinkedList<Student>();
 
